@@ -1,0 +1,13 @@
+{
+  "background_color": "#1a365d",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "دليل",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "دليل",
+  "start_url": "/",
+  "theme_color": "#1a365d",
+  "description": "تطبيق قانوني شامل",
+  "id": "https://magical-unicorn-c65e7b.netlify.app"
+}
